@@ -12,6 +12,6 @@ name: Pokemon
 type: pokemon
 description: 'Pokémon are fictional creatures that inhabit the Pokémon world, each with unique abilities and characteristics.'
 help: null
-new_revision: true
+new_revision: false
 preview_mode: 2
 display_submitted: true

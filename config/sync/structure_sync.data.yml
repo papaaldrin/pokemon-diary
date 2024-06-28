@@ -1,4 +1,14 @@
 taxonomies:
   location: {  }
   tags: {  }
-  type: {  }
+  type:
+    -
+      vid: type
+      tid: '1'
+      langcode: en
+      name: Normal
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ae095856-7cad-4a01-9dd7-1dac04e21723
